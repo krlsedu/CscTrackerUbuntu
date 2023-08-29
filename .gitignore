@@ -1,0 +1,10 @@
+/.idea/
+/target/
+/*.iml
+/mvnw
+/mvnw.cmd
+/HELP.md
+/lib/
+/scripts/
+/pyvenv.cfg
+*.log
